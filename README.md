@@ -11,5 +11,3 @@ After you clone this repo:
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
-
-3.) Add your own [Claifai API key](http://clarifai.com) in the `src/App.js` file to connect to Clarifai.
